@@ -35,21 +35,12 @@ export const DATA = {
         name: "GitHub",
         url: "https://github.com/mywildancloud",
         icon: Icons.github,
-
         navbar: true,
       },
-      // X: {
-      //   name: "X",
-      //   url: "https://dub.sh/dillion-twitter",
-      //   icon: Icons.x,
-
-      //   navbar: false,
-      // },
       Telegram: {
         name: "Telegram",
         url: "https://t.me/wildannrs",
         icon: Icons.x,
-
         navbar: false,
       },
       Youtube: {
@@ -62,7 +53,6 @@ export const DATA = {
         name: "Send Email",
         url: "mailto:edpwildan@gmailcom",
         icon: Icons.email,
-
         navbar: true,
       },
     },
