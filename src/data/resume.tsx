@@ -14,14 +14,12 @@ export const DATA = {
     "From 2019 until now, I have spent a lot of time and money learning web design. I am a creator of WordPress templates [marketpress themes](https://github.com/mywildancloud/marketpress), I also have a plugin library for elementor [mplibrary](https://github.com/mywildancloud/mplibrary), But don't worry if you are one of the users of Gutenberg or FSE based templates such as GeneratePress, I have created a ChildTheme [GP_Personaa](https://github.com/mywildancloud/GP_Personaa) it's free for you to use.",
   avatarUrl: "/me.png",
   skills: [
-    "Node.js",
     "React",
     "Next.js",
     "Typescript",
     "TailwindCSS",
     "Git",
     "Figma",
-    "PHP",
     "Wordpress",
   ],
   navbar: [
