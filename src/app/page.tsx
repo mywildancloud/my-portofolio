@@ -11,7 +11,7 @@ import { WorkdeskCard } from "@/components/workdesk-card";
 
 const BLUR_FADE_DELAY = 0.04;
 
-export default function Page() {
+export default function PageHome() {
   return (
     <main className="flex flex-col min-h-[100dvh] space-y-10">
       <section id="hero">
