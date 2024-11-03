@@ -1,5 +1,7 @@
 import { Icons } from "@/components/icons";
 import { HomeIcon, PencilLineIcon, CodeIcon } from "lucide-react";
+
+
 export const DATA = {
   name: "Wildan Nursahidan",
   initials: "WNN",
@@ -124,64 +126,63 @@ export const DATA = {
   ],
   projects: [
     {
-      title: "Chat Collect",
-      href: "https://chatcollect.com",
-      dates: "Jan 2024 - Feb 2024",
+      title: "My Portfolio",
+      href: "https://me-wildan.vercel.app/",
+      dates: "28 Okt 2024 -  30 Okt 2024",
       active: true,
       description:
-        "With the release of the [OpenAI GPT Store](https://openai.com/blog/introducing-the-gpt-store), I decided to build a SaaS which allows users to collect email addresses from their GPT users. This is a great way to build an audience and monetize your GPT API usage.",
+        "Developed a personal portfolio website using Next.js, TypeScript, and Tailwind CSS. This template is open source and available on GitHub.",
       technologies: [
         "Next.js",
         "Typescript",
-        "PostgreSQL",
-        "Prisma",
         "TailwindCSS",
-        "Stripe",
         "Shadcn UI",
         "Magic UI",
       ],
       links: [
         {
           type: "Website",
-          href: "https://chatcollect.com",
-          icon: <Icons.globe className="size-3" />,
-        },
-      ],
-      image: "",
-      video:
-        "https://pub-83c5db439b40468498f97946200806f7.r2.dev/chat-collect.mp4",
-    },
-    {
-      title: "Magic UI",
-      href: "https://magicui.design",
-      dates: "June 2023 - Present",
-      active: true,
-      description:
-        "Designed, developed and sold animated UI components for developers.",
-      technologies: [
-        "Next.js",
-        "Typescript",
-        "PostgreSQL",
-        "Prisma",
-        "TailwindCSS",
-        "Stripe",
-        "Shadcn UI",
-        "Magic UI",
-      ],
-      links: [
-        {
-          type: "Website",
-          href: "https://magicui.design",
+          href: "https://me-wildan.vercel.app/",
           icon: <Icons.globe className="size-3" />,
         },
         {
           type: "Source",
-          href: "https://github.com/magicuidesign/magicui",
+          href: "https://github.com/mywildancloud/my-portofolio",
           icon: <Icons.github className="size-3" />,
         },
       ],
       image: "",
-      video: "https://cdn.magicui.design/bento-grid.mp4",
+      video:
+        "https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGtvZzQ4dnFjbWlmNjZnN3Uwb2NzZm9semo5cXc2aDJsMWZzeW1zdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aHuVOoGJYJo4YxMs5m/giphy.mp4",
+    },
+    {
+      title: "Ortoo Links",
+      href: "https://ortoolinks.vercel.app/",
+      dates: "01 Nov 2024 - 02 Nov 2024",
+      active: true,
+      description:
+        "Biolink template for digital product listings such as ebooks, video courses and digital downloads complete with checkout to external links.",
+      technologies: [
+        "Next.js",
+        "Typescript",
+        "TailwindCSS",
+        "Shadcn UI",
+        "Magic UI",
+      ],
+      links: [
+        {
+          type: "Website",
+          href: "https://ortoolinks.vercel.app/",
+          icon: <Icons.globe className="size-3" />,
+        },
+        {
+          type: "Buy this template",
+          href: "https://t.me/wildannrs",
+          icon: <Icons.downloads className="size-3" />,
+        },
+      ],
+      image: "",
+      video: "https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExam40MXlranNrcGtydDVtcTU4d3VibXFqajJpZ3h3OGM2YjltNnYwZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nIoccBCOnlPvuVHzAf/giphy.mp4",
     },
     {
       title: "llm.report",
