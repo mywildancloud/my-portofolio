@@ -153,7 +153,7 @@ export const DATA = {
       ],
       image: "",
       video:
-        "https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGtvZzQ4dnFjbWlmNjZnN3Uwb2NzZm9semo5cXc2aDJsMWZzeW1zdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aHuVOoGJYJo4YxMs5m/giphy.mp4",
+        "https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjNkZm93eHJlamtlamhucnB4Ym5xamdyenhqd3BrNjNmbGRjYWcwYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QtSyqQC5gK3mT49hdJ/giphy.mp4",
     },
     {
       title: "Ortoo Links",
