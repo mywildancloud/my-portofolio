@@ -3,7 +3,7 @@ import { ProjectCard } from "@/components/project-card";
 import { DATA } from "@/data/resume";
 
 const BLUR_FADE_DELAY = 0.04;
-export default function page() {
+export default function PageProjects() {
     return (
         <section id="projects">
         <div className="space-y-12 w-full py-12"> 
