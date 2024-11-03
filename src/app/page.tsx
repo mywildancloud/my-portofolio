@@ -169,6 +169,7 @@ export default function PageHome() {
                 <Link
                   href={DATA.contact.social.Telegram.url}
                   className="text-blue-500 hover:underline"
+                  target="_blank"
                 >
                   with a direct question on telegram
                 </Link>{" "}
