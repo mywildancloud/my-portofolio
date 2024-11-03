@@ -178,7 +178,7 @@ export const DATA = {
         {
           type: "Buy this template",
           href: "https://t.me/wildannrs",
-          icon: <Icons.downloads className="size-3" />,
+          icon: <Icons.download className="size-3" />,
         },
       ],
       image: "",
