@@ -296,25 +296,5 @@ export const DATA = {
       mlh: "https://s3.amazonaws.com/logged-assets/trust-badge/2019/mlh-trust-badge-2019-white.svg",
       links: [],
     },
-    {
-      tagline: "terminal",
-      title: "iTerm",
-      description:
-        "Even though macOS has a built-in terminal, I prefer iTerm when I write CLI commands.",
-      image:
-        "/iterm.svg",
-      mlh: "https://s3.amazonaws.com/logged-assets/trust-badge/2019/mlh-trust-badge-2019-white.svg",
-      links: [],
-    },
-    {
-      tagline: "hosted",
-      title: "Vercel",
-      description:
-        "I will deploy every project created using the Nextjs and tailwindCSS frameworks on vercel.",
-      image:
-        "/vercel.svg",
-      mlh: "https://s3.amazonaws.com/logged-assets/trust-badge/2019/mlh-trust-badge-2019-white.svg",
-      links: [],
-    },
   ],
 } as const;
